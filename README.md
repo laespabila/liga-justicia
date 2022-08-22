@@ -8,3 +8,5 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 Firma añadida con -S
 Firmar todos por defecto
+
+Cambios propuestos para un pull request. 
